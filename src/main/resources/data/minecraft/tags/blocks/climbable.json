@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "speedyladders:stone_ladder",
+    "speedyladders:iron_ladder",
+    "speedyladders:gold_ladder",
+    "speedyladders:diamond_ladder"
+  ]
+}

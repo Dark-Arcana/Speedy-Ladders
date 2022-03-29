@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "speedyladders:block/diamond_ladder" },
+        "facing=east":  { "model": "speedyladders:block/diamond_ladder", "y": 90 },
+        "facing=south": { "model": "speedyladders:block/diamond_ladder", "y": 180 },
+        "facing=west":  { "model": "speedyladders:block/diamond_ladder", "y": 270 }
+    }
+}
